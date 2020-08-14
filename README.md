@@ -2,11 +2,11 @@
 cirando um programa para fazer calculos matematicos
 
 
--------------------------- Calculadora em python --------------------------- 
+#-------------------------- Calculadora em python --------------------------- 
 
-Seleciona a opcao desejada:
+#Seleciona a opcao desejada:
 
-1 = Soma
+#1 = Soma
 2 = Subtracao
 3 = Multiplicacao
 4 = Divisao
