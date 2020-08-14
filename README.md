@@ -2,7 +2,7 @@
 cirando um programa para fazer calculos matematicos
 
 
--------------------------- Calculadora em python --------------------------- 
+# -------------------------- Calculadora em python --------------------------- 
 
 ## Seleciona a opcao desejada:
 
